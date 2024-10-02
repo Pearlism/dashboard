@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\commands",
+    "\\src\\events",
+    "\\src\\public",
+    "\\src\\public\\home",
+    "\\src\\public\\home\\assets",
+    "\\src\\routes",
+    "\\src\\views",
+    "\\src\\views\\home"
+  ],
+  "SelectedNode": "\\src\\events\\ready.js",
+  "PreviewInSolutionExplorer": false
+}
